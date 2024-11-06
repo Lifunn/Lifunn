@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Alif As'ad Ramadhan</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mieramensatu.mieramensatu" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Halo+Rek!+👋;+Gueh+Alif+As'ad+Ramadhan!;" />
+</h1>
 <h3 align="center">Student from the AI ​​engineering department at ITS</h3>
 <img align="right" alt="Coding" width="400" src= "https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
 
