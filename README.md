@@ -17,7 +17,7 @@
     <b>💬 Ask me about:</b> Machine Learning  
 </p>
 <p align="center">
-    <b>📫 How to reach me:</b> [aliframadhan2410@gmail.com](mailto:aliframadhan2410@gmail.com)  
+    <b>📫 How to reach me:</b> aliframadhan2410@gmail.com  
 </p>
 <p align="center">
     <b>⚡ Fun fact:</b> I have a big forehead! 😄
