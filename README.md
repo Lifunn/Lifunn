@@ -1,120 +1,102 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mieramensatu.mieramensatu" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Halo+Rek!+👋;+Gueh+Alif+As'ad+Ramadhan!;" />
-</h1>
-
-<h3 align="center">🎓 Student from the AI Engineering department at ITS</h3>
-
+<!-- Header Block -->
 <div align="center">
-    <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Halo%20Rek!%20👋&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I'm%20Alif%20As'ad%20Ramadhan&descAlignY=60&descAlign=50" />
 </div>
 
-<p align="center">
-    <b>🌱 I’m currently learning:</b> Machine Learning, Deep Learning, and more.  
-</p>
-<p align="center">
-    <b>💬 Ask me about:</b> Machine Learning  
-</p>
-<p align="center">
-    <b>📫 How to reach me:</b> aliframadhan2410@gmail.com  
-</p>
-<p align="center">
-    <b>⚡ Fun fact:</b> I have a big forehead! 😄
-</p>
-
----
-
-### 💬 Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="40" width="40" />
-  </a>
-  <a href="https://kaggle.com/alifasadramadhan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alifasadramadhan" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/alifasad4" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alifasad4" height="40" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Technologies & Tools I Work With:
-
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
-  </a>
-</p>
-
----
-
-### 🚀 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lifunn&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
----
-
-### 🎯 Contributions in the Last Year:
-
+<!-- Bio & Socials -->
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mieramensatu/mieramensatu/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-  <br/><br/><br/>
+  <h3>🎓 AI Engineering Student at ITS (Institut Teknologi Sepuluh Nopember)</h3>
+  <p>
+    Passionate about turning data into intelligence. Currently exploring the depths of <b>Machine Learning</b>, <b>Game Dev</b>, and <b>3D Visualization</b>.
+  </p>
+  
+  <br/>
+
+  <!-- Social Links -->
+  <a href="https://linkedin.com/in/LINK_LINKEDIN_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aliframadhan2410@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://kaggle.com/alifasadramadhan" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+   <a href="https://instagram.com/alifasad4" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </div>
 
+<br/>
+<hr/>
+
+<!-- Trophies Section -->
+<h2 align="center">🏆 Achievements</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Lifunn&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Tech Stack Section -->
+<h2 align="center">🛠️ Technical Arsenal</h2>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="100"><b>Languages</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="100"><b>AI & Data</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100"><b>Dev & Creative</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+      <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Stats Section (Hanya Streak Stats karena ini yang 100% Works) -->
+<h2 align="center">📊 GitHub Activity</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lifunn&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lifunn&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<br/>
 
-### 🎯 Projects & Contributions:
+<!-- Footer -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=20BEFF&center=true&vCenter=true&width=435&lines=Fun+Fact:+I+have+a+big+forehead!;(More+space+for+Big+Brain+Energy+🧠);Let's+collaborate+on+something+cool!;" />
+</div>
 
-🔍 **Machine Learning Projects**  
-📚 **Data Science and Deep Learning Projects**  
-🛠️ **Contributions to Open Source Projects**
+<br/>
 
----
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!✌️+;Shoot+me+message+on+LinkedIn!💌;I'm+always+ready+to+help🫶🏻" />
-</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
